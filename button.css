@@ -1,0 +1,12 @@
+#b{
+    background-color:orange;
+    padding : 2em 3em;
+    margin: 50em 30em 20em 60em;
+}
+.g{
+    background-image: url("https://ih0.redbubble.net/image.521376995.5131/flat,750x1000,075,f.u1.jpg");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+    background-attachment: fixed;
+}

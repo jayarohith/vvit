@@ -1,0 +1,3 @@
+{
+    "basics": {"name":"Sai" , "role":"Fresher" , "email":"sai.@email.com" , "mobile_no":"+91 9848012608" , "education": [ {"degree":"ssc" , "percentage":92} , {"degree":"inter" , "percentage":97.5} , {"degree":"b-tech" , "percentage":87} ] }
+}

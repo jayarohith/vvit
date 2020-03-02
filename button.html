@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="button.css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body class="g">
+    
+</body>
+<!-- <button type="button" onclick="demo()"> click me</button> -->
+<button id="b" onclick="sample()">Dont touch me</button>
+<!-- <form action="/action_page.php" method="get">
+    <label for="fname">First name:</label>
+    <input type="text" id="fname" name="fname"><br><br>
+    <label for="lname">Last name:</label>
+    <input type="text" id="lname" name="lname"><br><br>
+    <button type="submit" value="Submit" >Submit</button>
+    <button type="reset" value="Reset">Reset</button>
+  </form> -->
+</html>
+<script>
+    function sample()
+    {
+        var h=document.getElementsById("b");
+        h.innerHTML ="i said dont";
+        h.style.background="red"
+    }
+</script>
